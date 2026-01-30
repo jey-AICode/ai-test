@@ -1,0 +1,12 @@
+---
+layout: page
+title: "OpenAI 发布 EU Economic Blueprint 2.0"
+---
+
+**来源**：OpenAI  
+**日期**：2026-01-28  
+**重点**：推动欧洲 AI 采用、技能与增长。
+
+**摘要**：蓝图提出政策与合作框架，强调人才、产业与公共部门的 AI 采用。
+
+**原文链接**：<https://openai.com/index/the-next-chapter-for-ai-in-the-eu>

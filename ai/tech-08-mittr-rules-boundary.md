@@ -1,0 +1,12 @@
+---
+layout: page
+title: "提示层面失效、边界层面有效：AI 规则治理新思路"
+---
+
+**来源**：MIT Technology Review  
+**日期**：2026-01-28  
+**重点**：安全与合规应从系统边界切入。
+
+**摘要**：强调以系统边界与约束为核心的安全治理思路。
+
+**原文链接**：<https://www.technologyreview.com/2026/01/28/1131003/rules-fail-at-the-prompt-succeed-at-the-boundary/>

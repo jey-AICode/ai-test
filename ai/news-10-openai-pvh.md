@@ -1,0 +1,12 @@
+---
+layout: page
+title: "PVH 将 AI 引入时尚设计与供应链"
+---
+
+**来源**：OpenAI  
+**日期**：2026-01-27  
+**重点**：设计/供应链/消费者体验三线并进。
+
+**摘要**：PVH 在设计、供应链与消费体验环节全面引入 AI，提高效率与个性化能力。
+
+**原文链接**：<https://openai.com/index/pvh-future-of-fashion>

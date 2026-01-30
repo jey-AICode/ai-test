@@ -1,0 +1,12 @@
+---
+layout: page
+title: "Project Genie：生成可交互世界的技术路径"
+---
+
+**来源**：Google DeepMind  
+**日期**：2026-01-29  
+**重点**：文本/图像到可探索世界的生成链路。
+
+**摘要**：从技术层面解释 Genie 的生成流程与可交互特性。
+
+**原文链接**：<https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/>
